@@ -36,3 +36,10 @@
 24/08/2025 20:23:27  WD=C:\UltimaTarascaLauncher\TazUO
 24/08/2025 20:23:30  ExitCode=0  Duración=3,57s
 24/08/2025 20:23:30  === LanzadorTarasca.vbs END ===
+24/08/2025 20:24:59  === LanzadorTarasca.vbs START ===
+24/08/2025 20:24:59  UOPath=C:\UltimaTarascaLauncher\Data Files
+24/08/2025 20:24:59  Settings=C:\UltimaTarascaLauncher\Profiles\Settings\68e2c7a7-64b5-4df9-b484-71c0b8b3b143.json
+24/08/2025 20:24:59  CMD="C:\UltimaTarascaLauncher\TazUO\ClassicUO.exe" -uopath "C:\UltimaTarascaLauncher\Data Files" -settings "C:\UltimaTarascaLauncher\Profiles\Settings\68e2c7a7-64b5-4df9-b484-71c0b8b3b143.json"
+24/08/2025 20:24:59  WD=C:\UltimaTarascaLauncher\TazUO
+24/08/2025 20:25:02  ExitCode=0  Duración=2,59s
+24/08/2025 20:25:02  === LanzadorTarasca.vbs END ===

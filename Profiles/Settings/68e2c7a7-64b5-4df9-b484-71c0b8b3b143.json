@@ -8,16 +8,13 @@
   "clientversion": "7.0.20.0",
   "lang": "ESN",
   "lastservernum": 1,
-  "last_server_name": "Ultima Iberia",
+  "last_server_name": "",
   "fps": 60,
   "window_position": {
-    "X": 0,
-    "Y": 0
+    "X": 632,
+    "Y": 269
   },
-  "window_size": {
-    "X": 1920,
-    "Y": 1009
-  },
+  "window_size": null,
   "is_win_maximized": true,
   "saveaccount": false,
   "autologin": false,

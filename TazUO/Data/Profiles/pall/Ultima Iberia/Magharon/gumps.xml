@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<gump type="12" x="740" y="791" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
+	<gump type="9" x="1642" y="300" serial="52869" serverSerial="0" isLocked="False" alphaOffset="0" isminimized="False" />
+	<gump type="0" x="1548" y="369" serial="114" serverSerial="2993952339" isLocked="False" alphaOffset="0" />
+	<gump type="8787" x="1595" y="643" serial="1073999095" serverSerial="0" isLocked="False" alphaOffset="0" parent="52869" ogContainer="60" />
+	<gump type="18" x="1517" y="5" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
+</gumps>

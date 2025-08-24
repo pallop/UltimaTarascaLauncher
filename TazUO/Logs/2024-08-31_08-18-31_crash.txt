@@ -1,0 +1,54 @@
+######################## [START LOG] ########################
+ClassicUO [STANDARD_BUILD] - 3.23.1.0 - 08/31/2024 08:18:31
+OS: Win32NT x64
+Thread: CUO_MAIN_THREAD
+
+Shard: 74.91.120.104
+ClientVersion: 7.0.15.1
+
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ClassicAssist.UI.ViewModels.Agents.FriendsTabViewModel.Serialize(JObject json, Boolean global) in D:\a\ClassicAssist\ClassicAssist\ClassicAssist\UI\ViewModels\Agents\FriendsTabViewModel.cs:line 60
+   at ClassicAssist.Data.Options.Save(Options options) in D:\a\ClassicAssist\ClassicAssist\ClassicAssist\Data\Options.cs:line 556
+   at Assistant.Engine.OnClientClosing() in D:\a\ClassicAssist\ClassicAssist\ClassicAssist\Engine.cs:line 381
+   at ClassicUO.Network.Plugin.OnClosing() in D:\workspace\2024\TazUO\src\ClassicUO.Client\Network\Plugin.cs:line 606
+   at ClassicUO.GameController.UnloadContent() in D:\workspace\2024\TazUO\src\ClassicUO.Client\GameController.cs:line 228
+   at Microsoft.Xna.Framework.GraphicsDeviceManager.OnDeviceDisposing(Object sender, EventArgs args) in D:\workspace\2024\TazUO\external\FNA\src\GraphicsDeviceManager.cs:line 346
+   at Microsoft.Xna.Framework.Graphics.GraphicsDevice.Dispose(Boolean disposing) in D:\workspace\2024\TazUO\external\FNA\src\Graphics\GraphicsDevice.cs:line 484
+   at Microsoft.Xna.Framework.GraphicsDeviceManager.Dispose(Boolean disposing) in D:\workspace\2024\TazUO\external\FNA\src\GraphicsDeviceManager.cs:line 246
+   at Microsoft.Xna.Framework.GraphicsDeviceManager.System.IDisposable.Dispose() in D:\workspace\2024\TazUO\external\FNA\src\GraphicsDeviceManager.cs:line 260
+   at Microsoft.Xna.Framework.Game.Dispose(Boolean disposing) in D:\workspace\2024\TazUO\external\FNA\src\Game.cs:line 320
+   at Microsoft.Xna.Framework.Game.Dispose() in D:\workspace\2024\TazUO\external\FNA\src\Game.cs:line 288
+   at ClassicUO.Client.Run() in D:\workspace\2024\TazUO\src\ClassicUO.Client\Client.cs:line 92
+   at ClassicUO.Bootstrap.Main(String[] args) in D:\workspace\2024\TazUO\src\ClassicUO.Client\Main.cs:line 282
+######################## [END LOG] ########################
+
+
+
+######################## [START LOG] ########################
+ClassicUO [STANDARD_BUILD] - 3.23.1.0 - 08/31/2024 08:18:31
+OS: Win32NT x64
+Thread: CUO_MAIN_THREAD
+
+Shard: 74.91.120.104
+ClientVersion: 7.0.15.1
+
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ClassicAssist.UI.ViewModels.Agents.FriendsTabViewModel.Serialize(JObject json, Boolean global) in D:\a\ClassicAssist\ClassicAssist\ClassicAssist\UI\ViewModels\Agents\FriendsTabViewModel.cs:line 60
+   at ClassicAssist.Data.Options.Save(Options options) in D:\a\ClassicAssist\ClassicAssist\ClassicAssist\Data\Options.cs:line 556
+   at Assistant.Engine.OnClientClosing() in D:\a\ClassicAssist\ClassicAssist\ClassicAssist\Engine.cs:line 381
+   at ClassicUO.Network.Plugin.OnClosing() in D:\workspace\2024\TazUO\src\ClassicUO.Client\Network\Plugin.cs:line 606
+   at ClassicUO.GameController.UnloadContent() in D:\workspace\2024\TazUO\src\ClassicUO.Client\GameController.cs:line 228
+   at Microsoft.Xna.Framework.GraphicsDeviceManager.OnDeviceDisposing(Object sender, EventArgs args) in D:\workspace\2024\TazUO\external\FNA\src\GraphicsDeviceManager.cs:line 346
+   at Microsoft.Xna.Framework.Graphics.GraphicsDevice.Dispose(Boolean disposing) in D:\workspace\2024\TazUO\external\FNA\src\Graphics\GraphicsDevice.cs:line 484
+   at Microsoft.Xna.Framework.GraphicsDeviceManager.Dispose(Boolean disposing) in D:\workspace\2024\TazUO\external\FNA\src\GraphicsDeviceManager.cs:line 246
+   at Microsoft.Xna.Framework.GraphicsDeviceManager.System.IDisposable.Dispose() in D:\workspace\2024\TazUO\external\FNA\src\GraphicsDeviceManager.cs:line 260
+   at Microsoft.Xna.Framework.Game.Dispose(Boolean disposing) in D:\workspace\2024\TazUO\external\FNA\src\Game.cs:line 320
+   at Microsoft.Xna.Framework.Game.Dispose() in D:\workspace\2024\TazUO\external\FNA\src\Game.cs:line 288
+   at ClassicUO.Client.Run() in D:\workspace\2024\TazUO\src\ClassicUO.Client\Client.cs:line 92
+   at ClassicUO.Bootstrap.Main(String[] args) in D:\workspace\2024\TazUO\src\ClassicUO.Client\Main.cs:line 282
+######################## [END LOG] ########################
+
+
+

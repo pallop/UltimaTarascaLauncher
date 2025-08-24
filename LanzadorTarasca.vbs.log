@@ -1,0 +1,9 @@
+24/08/2025 17:07:14  === LanzadorTarasca.vbs DIAG ===
+24/08/2025 17:07:14  Base=C:\UltimaTarascaLauncher
+24/08/2025 17:07:14  Settings detectado: C:\UltimaTarascaLauncher\Profiles\Settings\68e2c7a7-64b5-4df9-b484-71c0b8b3b143.json
+24/08/2025 17:07:14  Aviso: no hay Data
+24/08/2025 17:07:14  Aviso: no hay Plugins
+24/08/2025 17:07:14  CMD: "C:\UltimaTarascaLauncher\TazUO\ClassicUO.exe" -settings "C:\UltimaTarascaLauncher\Profiles\Settings\68e2c7a7-64b5-4df9-b484-71c0b8b3b143.json"
+24/08/2025 17:07:14  WD:  C:\UltimaTarascaLauncher\TazUO
+24/08/2025 17:07:17  Intento1: ExitCode=0  Duración=2,87s
+24/08/2025 17:07:17  === Fin DIAG ===

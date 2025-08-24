@@ -1,0 +1,66 @@
+S 0 1 0
++O p e n   S t a t u s 
+########
+T 0 1 0
++O p e n   C h a t 
+########
+B 0 1 0
++O p e n   M a g e S p e l l b o o k 
+########
+C 0 1 0
++W a r / P e a c e   
+########
+P 0 1 0
++O p e n   P a p e r d o l l 
+########
+K 0 1 0
++O p e n   S k i l l s 
+########
+J 0 1 0
++O p e n   J o u r n a l 
+########
+Q 0 1 0
++O p e n   Q u e s t L o g 
+########
+W 0 1 0
++O p e n   S p e l l W e a v i n g S p e l l b o o k 
+########
+I 0 1 0
++O p e n   B a c k p a c k 
+########
+R 0 1 0
++O p e n   O v e r v i e w 
+########
+O 0 1 0
++O p e n   C o n f i g u r a t i o n 
+########
+X 0 1 0
++Q u i t G a m e   
+########
+B 1 0 0
++B o w   
+########
+S 1 0 0
++S a l u t e   
+########
+Num 8 1 1 0
++S a y   F o r w a r d 
+########
+Num 5 1 1 0
++S a y   S t o p 
+########
+Num 4 1 1 0
++S a y   T u r n   L e f t 
+########
+Num 6 1 1 0
++S a y   T u r n   R i g h t 
+########
+Num 7 1 1 0
++S a y   L e f t 
+########
+Num 9 1 1 0
++S a y   R i g h t 
+########
+Num 2 1 1 0
++S a y   B a c k w a r d s 
+########

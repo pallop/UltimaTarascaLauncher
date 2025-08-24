@@ -1,0 +1,12 @@
+{
+  "Graphic_Background": 10860,
+  "Graphic_BuffIcon_Normal": 30008,
+  "Graphic_BuffIcon_Pressed": 30009,
+  "Graphic_BuffIcon_Hover": 30009,
+  "Graphic_LockIcon_Up": 2436,
+  "Graphic_LockIcon_Down": 2438,
+  "Graphic_LockIcon_Locked": 2092,
+  "Hue_Background": 0,
+  "Hue_CharacterName": 902,
+  "Hue_Text": 902
+}

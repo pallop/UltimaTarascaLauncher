@@ -1,0 +1,287 @@
+{
+  "Name": "settings.json",
+  "SelectedTabIndex": 0,
+  "General": {
+    "AlwaysOnTop": false,
+    "LightLevel": 0,
+    "ActionDelay": false,
+    "ActionDelayMS": 0,
+    "Debug": false,
+    "SysTray": false,
+    "SlowHandlerThreshold": 250,
+    "Autologin": false,
+    "AutologinUsername": null,
+    "AutologinPassword": null,
+    "AutologinServerIndex": 0,
+    "AutologinCharacterIndex": 0,
+    "AutologinConnectDelay": "00:00:00",
+    "AutologinReconnectDelay": "00:00:00",
+    "Filters": [
+      {
+        "Name": "ClassicAssist.Data.Filters.WeatherFilter",
+        "Enabled": true
+      },
+      {
+        "Name": "ClassicAssist.Data.Filters.SeasonFilter",
+        "Enabled": false
+      },
+      {
+        "Name": "ClassicAssist.Data.Filters.LightLevelFilter",
+        "Enabled": true
+      },
+      {
+        "Name": "ClassicAssist.Data.Filters.RepeatedMessagesFilter",
+        "Enabled": false,
+        "Options": {
+          "SendToJournal": false,
+          "MessageLimit": 5,
+          "TimeLimit": 5,
+          "BlockedTime": 5
+        }
+      },
+      {
+        "Name": "ClassicAssist.Data.Filters.ClilocFilter",
+        "Enabled": false,
+        "Options": {
+          "Filters": []
+        }
+      },
+      {
+        "Name": "ClassicAssist.Data.Filters.SoundFilter",
+        "Enabled": false,
+        "Options": {
+          "Items": []
+        }
+      },
+      {
+        "Name": "ClassicAssist.Data.Filters.ItemIDFilter",
+        "Enabled": false,
+        "Options": {
+          "Items": []
+        }
+      }
+    ]
+  },
+  "Options": {
+    "UseOnce": {
+      "Persist": false
+    },
+    "UseDeathScreenWhilstHidden": false,
+    "CommandPrefix": 61,
+    "RangeCheckLastTarget": false,
+    "RangeCheckLastTargetAmount": 11,
+    "UseExperimentalFizzleDetection": false,
+    "UseObjectQueue": false,
+    "UseObjectQueueAmount": 5,
+    "QueueLastTarget": false,
+    "MaxTargetQueueLength": 1,
+    "SmartTargetOption": "None",
+    "LimitMouseWheelTrigger": true,
+    "LimitMouseWheelTriggerMS": 200,
+    "LimitHotkeyTrigger": false,
+    "LimitHotkeyTriggerMS": 0,
+    "AutoAcceptPartyInvite": false,
+    "AutoAcceptPartyOnlyFromFriends": false,
+    "PreventTargetingInnocentsInGuardzone": false,
+    "PreventAttackingInnocentsInGuardzone": false,
+    "LastTargetMessage": "[Last Target]",
+    "FriendTargetMessage": "[Friend]",
+    "EnemyTargetMessage": "[Enemy]",
+    "DefaultMacroQuietMode": false,
+    "GetFriendEnemyUsesIgnoreList": false,
+    "AbilitiesGump": true,
+    "AbilitiesGumpX": 100,
+    "AbilitiesGumpY": 100,
+    "SetUOTitle": true,
+    "ShowProfileNameWindowTitle": false,
+    "SortMacrosAlphabetical": false,
+    "ShowResurrectionWaypoints": true,
+    "RehueFriends": false,
+    "RehueFriendsHue": 35,
+    "CheckHandsPotions": false,
+    "MacrosGump": true,
+    "MacrosGumpX": 100,
+    "MacrosGumpY": 100,
+    "MacrosGumpHeight": 190,
+    "MacrosGumpWidth": 180,
+    "MacrosGumpTextColor": "#FFFFFFFF",
+    "MacrosGumpTransparent": true,
+    "ChatWindowHeight": 350.0,
+    "ChatWindowWidth": 650.0,
+    "ExpireTargetsMS": -1,
+    "LogoutDisconnectedPrompt": false,
+    "DisableHotkeysLoad": false,
+    "HotkeysStatusGump": false,
+    "HotkeysStatusGumpX": 10,
+    "HotkeysStatusGumpY": 30
+  },
+  "Hotkeys": {
+    "Commands": [],
+    "Options": [
+      {
+        "Type": "ClassicAssist.Data.Hotkeys.Commands.GreaterHealCureSelf",
+        "Property": "CureType",
+        "Value": "Cure"
+      },
+      {
+        "Type": "ClassicAssist.Data.Hotkeys.Commands.MiniHealCureSelf",
+        "Property": "CureType",
+        "Value": "Cure"
+      }
+    ],
+    "Spells": [],
+    "Masteries": []
+  },
+  "Macros": {
+    "LeftColumnWidth": 200.0,
+    "Groups": [],
+    "Macros": [],
+    "Alias": [
+      {
+        "Name": "bank",
+        "Value": 1073999118
+      },
+      {
+        "Name": "last",
+        "Value": 1073773962
+      }
+    ],
+    "PlayerAliases": []
+  },
+  "Skills": [],
+  "OrganizerOptions": {
+    "Static": {
+      "Stop Organizer": {
+        "Keys": {
+          "Keys": 0,
+          "SDLModifier": 0,
+          "Mouse": 7
+        },
+        "PassToUO": true,
+        "Disableable": true
+      }
+    }
+  },
+  "Organizer": [],
+  "Dress": {
+    "Options": {
+      "MoveConflictingItems": false,
+      "UseUO3DPackets": false
+    },
+    "Static": {
+      "Stop Dress": {
+        "Keys": {
+          "Keys": 0,
+          "SDLModifier": 0,
+          "Mouse": 7
+        },
+        "PassToUO": true,
+        "Disableable": true
+      }
+    },
+    "Entries": []
+  },
+  "Counters": {
+    "Warn": true,
+    "WarnAmount": 0,
+    "Items": []
+  },
+  "Friends": {
+    "IncludePartyMembersInFriends": false,
+    "PreventAttackingFriendsInWarMode": false,
+    "PreventTargetingFriendsWithHarmful": false,
+    "Items": []
+  },
+  "NameOverride": {
+    "Enabled": false,
+    "Entries": []
+  },
+  "VendorBuy": {
+    "AutoDisableOnLogin": false,
+    "Entries": []
+  },
+  "VendorSell": {
+    "Items": [],
+    "ContainerSerial": 0
+  },
+  "Scavenger": {
+    "Enabled": false,
+    "Container": 0,
+    "CheckWeight": false,
+    "MinWeightAvailable": 0,
+    "FilterEnabled": false,
+    "Items": [],
+    "Filters": []
+  },
+  "Autoloot": {
+    "Enabled": false,
+    "DisableInGuardzone": false,
+    "Container": 0,
+    "RequeueFailedItems": false,
+    "LootHumanoids": false,
+    "LeftColumnWidth": 200.0,
+    "Groups": [],
+    "MatchTextValue": false,
+    "Items": []
+  },
+  "Screenshot": {
+    "Fullscreen": false,
+    "FilenameFormat": "ClassicAssist-{date}-{longTime}",
+    "IncludeInfoBar": true,
+    "Format": "{player} ({shard}) - {date} {time}",
+    "FontSize": 16,
+    "FontColor": "#FFFFFFFF",
+    "BackgroundColor": "#FF000000",
+    "AutoScreenshot": false,
+    "PlayerDeath": false,
+    "PlayerDeathDelay": 2000,
+    "MobileDeath": false,
+    "MobileDeathDelay": 500,
+    "Distance": 12,
+    "OnlyIfEnemy": false,
+    "MobileDeathFilter": [
+      {
+        "ID": 400,
+        "Note": "Human Male",
+        "Enabled": true
+      },
+      {
+        "ID": 401,
+        "Note": "Human Female",
+        "Enabled": true
+      },
+      {
+        "ID": 605,
+        "Note": "Elf Male",
+        "Enabled": true
+      },
+      {
+        "ID": 606,
+        "Note": "Elf Female",
+        "Enabled": true
+      },
+      {
+        "ID": 666,
+        "Note": "Gargoyle Male",
+        "Enabled": true
+      },
+      {
+        "ID": 667,
+        "Note": "Gargoyle Female",
+        "Enabled": true
+      }
+    ]
+  },
+  "UseOnceAgent": {
+    "AutoAddTargetedPouches": false,
+    "AutoAddOnlyMagicTrap": false,
+    "AutoRemoveItem": true,
+    "RehueItems": false,
+    "RehueItemsHue": 61,
+    "WarnItemCount": false,
+    "WarnItemCountAmount": 5,
+    "WarnOverheadMessage": false,
+    "Items": []
+  },
+  "Hash": "5D605DA9949194EB7FED1AE4D8C7C1A445A2D6EB"
+}

@@ -1,0 +1,18 @@
+{
+  "Hue_HP_Blue": "30:144:255:255",
+  "Hue_HP_Gray": "128:128:128:255",
+  "Hue_HP_Red": "255:0:0:255",
+  "Hue_HP_Yellow": "255:165:0:255",
+  "Hue_HP_Poison": "50:205:50:255",
+  "Hue_HP_Black": "0:0:0:255",
+  "Hue_HP_Lines_Red": "255:0:0:255",
+  "Hue_HP_Lines_Blue": "30:144:255:255",
+  "Hue_HP_Lines_Black": "0:0:0:255",
+  "Width": 120,
+  "Height_Multiline": 60,
+  "Height_Singleline": 36,
+  "BorderSize": 1,
+  "OutlineSize": 1,
+  "HP_Bar_Width": 100,
+  "HP_Bar_Height": 8
+}

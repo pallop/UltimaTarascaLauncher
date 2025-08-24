@@ -1,0 +1,27 @@
+Instance Id: 1565005244
+
+OS Version: 6.2.9200
+
+CPU Manufacturer: 2
+CPU Family: 6
+CPU Model: 94
+CPU Clock Speed: 2592MHz
+CPU Quantity: 8
+
+Physical Memory: 4096MB
+
+Desktop Resolution and Color Depth: 1536x864x32
+DirectX Version: 9.0
+Video Card Description: Intel(R) HD Graphics 530
+Video Card Vendor Id: 32902
+Video Card Device Id: 6427
+Video Card Memory: 136MB
+
+Distribution: 0
+Client Running: 2
+Clients Installed: 6
+Partial Install: no
+
+Language Preference: enu
+
+DVD-ROM drive: no

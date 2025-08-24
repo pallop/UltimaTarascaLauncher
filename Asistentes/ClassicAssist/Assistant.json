@@ -1,0 +1,33 @@
+{
+  "LanguageOverride": "Default",
+  "LastProfile": "settings.json",
+  "UpdateGumpVersion": "4.425.22",
+  "SavePasswords": false,
+  "SavePasswordsOnlyBlank": false,
+  "UserId": "db90a6d4-7da5-4c52-8a45-94f7bfc1470a",
+  "UseCUOClilocLanguage": false,
+  "ProfileDirectory": "Profiles",
+  "GlobalDirectory": ".",
+  "DebugWindowOptions": {},
+  "WindowWidth": 400.0,
+  "WindowHeight": 400.0,
+  "Backup": {
+    "Enabled": true,
+    "Days": 7,
+    "LastBackup": "2025-01-04T08:34:06.0505798+01:00",
+    "Hashes": {
+      "C:\\Ultima-Adventures\\Client\\Assistants\\ClassicAssist\\Profiles\\settings.json": "3380967B130219C69E3A5358E6A67020F37D950B",
+      "C:\\Ultima-Adventures\\Client\\Assistants\\ClassicAssist\\Hotkeys.json": "AC9FCB834B966AEC2C08CDCB5607EC0BF3463F00",
+      "C:\\Ultima-Adventures\\Client\\Assistants\\ClassicAssist\\Skills.json": "730B9A93734F5D396B1D3E04568B3FDCD60B8AB5"
+    },
+    "Provider": {
+      "Name": "ClassicAssist.Data.Backup.LocalBackupProvider",
+      "BackupPath": "Backup",
+      "FirstRun": false,
+      "Incremental": false
+    }
+  },
+  "Profiles": [],
+  "SavedPasswords": [],
+  "Assemblies": []
+}
